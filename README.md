@@ -11,6 +11,7 @@ Kevin has to make words starting with vowels.
 The game ends when both players have made all possible substrings. 
 
 *Scoring*
+
 A player gets +1 point for each occurrence of the substring in the string S.
 
 For Example:
