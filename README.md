@@ -32,11 +32,13 @@ Print one line: the name of the winner and their score separated by a space.
 
 If the game is a draw, print Draw.
 
-*Sample Input:*
+*Example*
+
+*Input:*
 
 BANANA
 
-*Sample Output:*
+*Output:*
 
 Stuart 12
 
